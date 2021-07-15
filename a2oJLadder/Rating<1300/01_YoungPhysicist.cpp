@@ -1,4 +1,4 @@
-//2nd problem in codeforces which was ordered in a20JLadder for Rating < 1300 
+//1st problem in codeforces which was ordered in a20JLadder for Rating < 1300 
 
 #include <bits/stdc++.h>
 using namespace std;
