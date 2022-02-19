@@ -1,3 +1,5 @@
+//This question was done by mw from a2oJladder Q no 18 while I am practising CP.
+
 #include <iostream>
 using namespace std;
 
